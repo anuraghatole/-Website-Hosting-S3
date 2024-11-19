@@ -1,6 +1,7 @@
 # **AWS Static Website Deployment with Security and Automation**
 
-file:///home/anurag/Pictures/Screenshots/Screenshot%20from%202024-11-19%2020-11-30.png
+![Screenshot from 2024-11-19 20-11-30](https://github.com/user-attachments/assets/700d34f2-cf34-4cfc-9afe-e533d8bab6cb)
+
 
 ## **Project Overview**
 This project demonstrates the deployment of a **static website** on **Amazon Web Services (AWS)** with a focus on security, scalability, and automation. The goal was to explore various AWS services and understand how they work together to build a robust, secure, and highly available web application. 
