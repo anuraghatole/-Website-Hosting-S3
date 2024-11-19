@@ -76,9 +76,9 @@ To get this project up and running locally or to deploy it to AWS, you will need
 3. **Follow the Steps Above for Deployment:**
    - Follow the steps mentioned in the "Project Setup" section to deploy the website on AWS.
 
-## **Screenshots**
+## **Website Screenshots**
 
-Include a screenshot or preview of the website once deployed, if possible:
+preview of the website after deploying.
 
 ![Screenshot from 2024-11-20 00-05-33](https://github.com/user-attachments/assets/edc685db-2298-4679-8e82-921efc59ed80)
 
